@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404361699852",
+    "firebase_url": "https://foodies-48bbc.firebaseio.com",
+    "project_id": "foodies-48bbc",
+    "storage_bucket": "foodies-48bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404361699852:android:f4f641ec40b170ac",
+        "android_client_info": {
+          "package_name": "com.example.mahamud.foodies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404361699852-dpnadn7aist5lv39ln1itro7ruog79kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZau4eUM4unQXxWli_cnF7ar-bsHy7lm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
